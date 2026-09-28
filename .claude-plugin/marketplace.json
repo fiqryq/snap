@@ -1,0 +1,16 @@
+{
+  "name": "snap",
+  "owner": {
+    "name": "Fiqry Choerudin"
+  },
+  "metadata": {
+    "description": "Figma-to-native mobile UI skills for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "snap",
+      "source": "./",
+      "description": "Build native mobile UI on autopilot. Pixel-perfect Figma-to-SwiftUI and Figma-to-Compose with autonomous refinement."
+    }
+  ]
+}

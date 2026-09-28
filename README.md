@@ -8,13 +8,16 @@ Figma recon → study → build → refine loop, running on the iOS Simulator or
 
 | Skill | Platform | Renders on |
 |-------|----------|------------|
-| `/snap-swiftui` | SwiftUI (iOS) | iOS Simulator |
-| `/snap-compose` | Jetpack Compose (Android) | Android Emulator |
+| `/snap:snap-swiftui` | SwiftUI (iOS) | iOS Simulator |
+| `/snap:snap-compose` | Jetpack Compose (Android) | Android Emulator |
 
 ## Install
 
-```bash
-git clone <repo-url> ~/.claude/plugins/snap
+In Claude Code:
+
+```
+/plugin marketplace add fiqryq/snap
+/plugin install snap@snap
 ```
 
 ## Usage
@@ -22,13 +25,13 @@ git clone <repo-url> ~/.claude/plugins/snap
 Open Claude Code in your iOS or Android project and run:
 
 ```
-/snap-swiftui
+/snap:snap-swiftui
 ```
 
 or
 
 ```
-/snap-compose
+/snap:snap-compose
 ```
 
 Then paste a Figma "Link to Selection".
