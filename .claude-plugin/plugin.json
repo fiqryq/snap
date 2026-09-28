@@ -1,0 +1,22 @@
+{
+  "name": "snap",
+  "description": "Build native mobile UI on autopilot. Pixel-perfect Figma-to-SwiftUI and Figma-to-Compose with autonomous refinement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fiqry Choerudin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "figma",
+    "mobile",
+    "ui",
+    "design-to-code",
+    "pixel-perfect",
+    "mcp",
+    "swiftui",
+    "ios",
+    "jetpack-compose",
+    "android",
+    "autonomous"
+  ]
+}
