@@ -1,5 +1,8 @@
 # Snap
 
+<img width="3600" height="2338" alt="CleanShot 2026-09-28 at 16 11 11@2x" src="https://github.com/user-attachments/assets/8061a7d7-228e-435f-8008-617cdf953a62" />
+
+
 Build native mobile UI on autopilot. Pixel-perfect Figma-to-SwiftUI and Figma-to-Compose with autonomous refinement.
 
 Figma recon → study → build → refine loop, running on the iOS Simulator or Android Emulator.
